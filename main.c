@@ -33,8 +33,8 @@ int main(int argc, char** argv) {
   puts("Press Ctrl+c to Exit\n");
 
   while(1){
-    // R.I.P golang
-    char* input = readline("went> ");
+    // Prompt
+    char* input = readline("lispy> ");
 
     // Add input to history
     add_history(input);
