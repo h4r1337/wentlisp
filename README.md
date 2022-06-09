@@ -1,6 +1,5 @@
 # Learn C by building a lisp
 > Building my very first lisp lang.
----
 
 A project started to learn `C` by building my own lisp language with [buildyourownlisp tutorial](https://buildyourownlisp.com)
 
