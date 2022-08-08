@@ -5,6 +5,10 @@ A project started to learn `C` by building my own lisp language with [buildyouro
 
 ### Status:
 
-- Chapter -> 7
-- built an interactive prompt (REPL) with line edit support.
-- added preprocessor for windows support.
+- Chapter -> 8
+- Worked handling error:
+  - Created a custom struct `lval`
+  - Zero division error
+  - Bad operator error
+  - Bad number error
+- Learned about enumerations
